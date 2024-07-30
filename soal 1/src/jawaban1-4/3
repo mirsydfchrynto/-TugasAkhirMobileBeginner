@@ -1,0 +1,5 @@
+3. Apakah yang dimaksud tentang function dalam bahasa Kotlin?
+   jwb:
+     function (fungsi) adalah blok kode yang dirancang untuk melakukan tugas tertentu dan dapat dipanggil dari bagian lain program.
+     function membantu memecah program besar menjadi bagian-bagian yang lebih kecil dan teratur
+     sehingga memudahkan pengelolaan dan pemahaman kode.

@@ -1,0 +1,9 @@
+2. Ada berapakah percabangan dalam bahasa pemrograman kotlin? Sebutkan dan jelaskan perbedaan dari masing-masing percabangan tersebut!
+   jwb:
+   pada bahasa pemrograman Kotlin, terdapat 2 jenis percabangan, yaitu if-else dan when.
+     - if-else : Digunakan untuk kondisi sederhana dan linear, brfungsi untuk evaluasi kondisi boolean langsung
+     - when : Lebih fleksibel dan kuat, brfungsi untuk kondisi kompleks atau banyak pilihan
+
+   Prbedaan utama:
+     - if-else lebih cocok untuk kondisi sederhana atau sedikit.
+     - when lebih bersih dan lebih mudah dibaca untuk banyak kondisi atau kondisi yang kompleks.

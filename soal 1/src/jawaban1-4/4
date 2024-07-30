@@ -1,0 +1,15 @@
+4. Apa yang dimaksud dengan function generic dalam kotlin? Jelaskan perbedaannya!!
+   jwb:
+   Function generic dalam Kotlin adalah fungsi yang dapat bekerja dengan berbagai tipe data.
+   brfungsi untuk menulis fungsi yang lebih fleksibel dan dapat digunakan kembali tanpa harus menentukan tipe data yang spesifik
+   karena menggunakan parameter tipe (type parameter), yang bertindak sebagai pengganti untuk tipe data yang sebenarnya.
+   sehingga kita dapat meminimalkan kode yang berulang dan menjadikan penggunaannya lebih mudah.
+
+   Perbedaan dengan function Biasa
+    function:
+        function memiliki parameter dengan tipe data yang spesifik.
+        digunakan ketika tipe data yang diterima dan dikembalikan sudah diketahui dan tidak akan berubah.
+
+    function Generic:
+        functiongeneric dapat bekerja dengan berbagai tipe data tanpa harus menentukan tipe data tersebut sebelumnya.
+        Lebih fleksibel dan dapat digunakan kembali untuk tipe data yang berbeda.

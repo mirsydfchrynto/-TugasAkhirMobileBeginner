@@ -1,0 +1,23 @@
+1. Apakah yang dimaksud dengan Variable dan tipe data didlam bahasa Kotlin? Jelaskan jenis-jenisnya!
+   jwb:
+     - Apa itu Variable:
+         Variabel adalah tempat untuk menyimpan nilai
+
+       Jenis-Jenis Variable:
+         1. val: Variabel yang nilainya tidak dapat di ubah
+         2. var: Variabel yang nilainya dapat di ubah
+
+     -  Apa itu tipe data:
+        Tipe Data adalah jenis nilai yang bisa disimpan dalam variabel
+
+        Jenis-jenis tipe data:
+     -  String : jenis data yang dapat dimuat 'Teks'
+     -  Int : jenis data yang dapat dimuat 'Angka(seluruh bilangan bulat)'
+     -  Float : jenis data yang dapat dimuat 'Angka desimal (yang kurang akurat dengan double) dan memiliki f atau F di akhir angka'
+     -  Double : jenis data yang dapat dimuat 'Angka desimal'
+     -  Boolean : jenis data yang dapat dimuat 'True atau False'
+     -  Char : jenis data yang dapat dimuat 'Satu karakter'
+     -  Array : jenis data yang dapat dimuat 'Kumpulan nilai yang sama(menyimpan banyak objek)'
+     -  String : jenis data yang dapat dimuat 'kumpulan dari banyak karakter'
+     -  Int, Long, Short,Byte : jenis data yang dapat dimuat 'Angka'
+     -  Boolean : Hanya memiliki 2 nilai yaitu true dan false
